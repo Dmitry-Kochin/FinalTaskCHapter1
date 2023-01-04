@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Личное\GItGroup\FinalTask\TaskCode\bin\Debug\net6.0\TaskCode.exe
+C:\Users\user\Documents\Личное\GItGroup\FinalTask\TaskCode\bin\Debug\net6.0\TaskCode.deps.json
+C:\Users\user\Documents\Личное\GItGroup\FinalTask\TaskCode\bin\Debug\net6.0\TaskCode.runtimeconfig.json
+C:\Users\user\Documents\Личное\GItGroup\FinalTask\TaskCode\bin\Debug\net6.0\TaskCode.dll
+C:\Users\user\Documents\Личное\GItGroup\FinalTask\TaskCode\bin\Debug\net6.0\TaskCode.pdb
+C:\Users\user\Documents\Личное\GItGroup\FinalTask\TaskCode\obj\Debug\net6.0\TaskCode.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Личное\GItGroup\FinalTask\TaskCode\obj\Debug\net6.0\TaskCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Личное\GItGroup\FinalTask\TaskCode\obj\Debug\net6.0\TaskCode.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Личное\GItGroup\FinalTask\TaskCode\obj\Debug\net6.0\TaskCode.AssemblyInfo.cs
+C:\Users\user\Documents\Личное\GItGroup\FinalTask\TaskCode\obj\Debug\net6.0\TaskCode.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Личное\GItGroup\FinalTask\TaskCode\obj\Debug\net6.0\TaskCode.dll
+C:\Users\user\Documents\Личное\GItGroup\FinalTask\TaskCode\obj\Debug\net6.0\refint\TaskCode.dll
+C:\Users\user\Documents\Личное\GItGroup\FinalTask\TaskCode\obj\Debug\net6.0\TaskCode.pdb
+C:\Users\user\Documents\Личное\GItGroup\FinalTask\TaskCode\obj\Debug\net6.0\TaskCode.genruntimeconfig.cache
+C:\Users\user\Documents\Личное\GItGroup\FinalTask\TaskCode\obj\Debug\net6.0\ref\TaskCode.dll
